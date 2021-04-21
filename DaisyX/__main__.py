@@ -63,7 +63,7 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello 👋 There, I'm [innexia](https://telegra.ph/file/c61e0caa74707d86aef70.jpg)
+Hello 👋 There, I'm [PATRICIA](https://telegra.ph/file/443a0e87e701d9f2f9451.jpg)
 
 An Advanced Telegram Group Management Bot For All Your Needs !!
 """
@@ -74,7 +74,7 @@ buttons = [
         InlineKeyboardButton(text="Help", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="Add Me", url="t.me/Innexiabot?startgroup=true"),
+        InlineKeyboardButton(text="Add Me", url="t.me/patricia?startgroup=true"),
     ],
 ]
 
@@ -85,13 +85,7 @@ HELP_STRINGS = f"""
 ✪ Join Support Group @InnexiaSupport!
 """.format(
     dispatcher.bot.first_name,
-    "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
-)
-
-
-DONATE_STRING = (
-    """Hey 👋 u can make a donation to innexia bot join us @InnexiaDonate !"""
-)
+    "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n)
 
 
 IMPORTED = {}
@@ -351,10 +345,10 @@ def DaisyX_about_callback(update, context):
     query = update.callback_query
     if query.data == "aboutmanu_":
         query.message.edit_text(
-            text=f"*😍 Hi again!  The name's {dispatcher.bot.first_name} 😍 \n\nAs  You I'm a next generational group management bot developed by Mr Sammy.* "
-            f"\n\n 🔥 Join [丂ﾑﾶﾶƳ](https://t.me/AboutSammy) To Keep Yourself Updated About {dispatcher.bot.first_name} 🔥"
+            text=f"*😍 Hi again!  The name's {dispatcher.bot.first_name} 😍 \n\nAs  You I'm a next generational group management bot developed by PATRICIA TEAMS.* "
+            f"\n\n 🔥 Join [PATRICIA](https://t.me/PATRICIA_SUPPORT) To Keep Yourself Updated About {dispatcher.bot.first_name} 🔥"
             f"\n\n I have the normal GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL banning system which safegaurds and helps your group from spammers."
-            f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features [:)](https://telegra.ph/file/473cc17913393959e0667.jpg)"
+            f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features [:)](https://telegra.ph/file/0d68167c5ec433113702a.jpg)"
             f"\n\n👇 You Can Know More About Me By Clicking The Below Buttons 👇",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -405,10 +399,10 @@ def DaisyX_about_callback(update, context):
         )
     elif query.data == "aboutmanu_credit":
         query.message.edit_text(
-            text=f"*{dispatcher.bot.first_name} Is the redisigned version of MissLillyBoT and Naruto for the best performance.*"
+            text=f"*{dispatcher.bot.first_name} Is the redisigned version of PATRICIA and Naruto for the best performance.*"
             f"\n\nBased on [LillyBot](https://t.me/misslillybot)."
-            f"\n\n{dispatcher.bot.first_name}'s source code was written by 💞 丂ﾑﾶﾶƳ"
-            f"\n\nIf Any Question About {dispatcher.bot.first_name}, \nLet Us Know At @{SUPPORT_CHAT}.",
+            f"\n\n{dispatcher.bot.first_name}'s source code was written by 💞 BLAZEƳ"
+            f"\n\nIf Any Question About {dispatcher.bot.first_name}, \nLet Us Know At @{https://telegra.ph/file/0d68167c5ec433113702a.jpg}.",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -525,7 +519,7 @@ def get_help(update, context):
                     [
                         InlineKeyboardButton(
                             text="Support",
-                            url="https://t.me/{}".format(SUPPORT_CHAT),
+                            url="https://t.me/{Patricia_support}".format(SUPPORT_CHAT),
                         )
                     ],
                 ]
