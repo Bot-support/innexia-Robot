@@ -1,45 +1,23 @@
+<p align="center">
+    
+</p>
 
-# Project still under heavy development
-## Everything will be changed in the release
+<p align="center">
+  <img src="https://telegra.ph/file/70023f0f9de0c34631333.jpg">
+</p>
 
-
-# “ Hey there 👋 I'm Daisy „
-## AI based Advanced telegram Group Management Bot Suit For All Your Needs ❤️
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/inukaasith/Daisy-x.git)
-
-## https://daisyproject.studio
-## Avaiilable on Telegram as [@DaisyXBot](https://t.me/daisyxbot)
-
-
-
-## Credits
-
- - SaitamaRobot
- - MissJuliaRobot
- - SuzuyaProbot
- - Daisy
- - FridayUserbot
- - Uniborg
- - Telethon
- - Pyrogram
- - Skylee
- - emilia
-
-
-The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
-This repo was just revamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
-
-All other credits mentioned on top of scripts
-
-Should any be missing kindly let us know at [InfinityJE](https://t.me/infinityje) or simply submit a pull request on the readme.
-
-## Daisy X the telegram Bot Project
-The Main Branch (Basic features only)
-
-DaisyX v1.0(core)
-
-## Special Credits
-- [ImJanindu](https://github.com/imjanindu) - A Co-Developer of Project
-- [Kaviya-Admin](https://github.com/kaviya-admin) - A Co-Developer of Project
+# Patricia
+Me On Telegram [✨PATRICIA✨](https://t.me/Patricia_support)
+This is just a demo bot.. Don't try to add to your group.. Create your own bot 
+## How To Host
+The easiest way to deploy this Bot
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Bot-support/innexia-Robot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ 
+CREDITS
+```
+oxilic:- @Itz_oxiOp
+Blaze:- @blaze_oop
+Anmol:- @Timeisnotwaiting
+Alone :- @Tere_bandi_meri_fan_hai
+Vedant:- @craziest_peep
 
